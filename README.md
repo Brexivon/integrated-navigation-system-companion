@@ -1,5 +1,7 @@
 # Integrated Navigation Systems — Companion Code
 
+> 📄 **[Download the full-color PDF of the book](Integrated-Navigation-Systems-Colored.pdf)** — every figure in color, plus all the code below ready to copy.
+
 Runnable **MATLAB** and **Python** implementations of the worked examples in
 *Integrated Navigation Systems: Principles, Algorithms, and Resilient PNT — GNSS, Inertial, and Multisensor Integration with MATLAB and Python* (Brexivon Technical Works, 2026).
 
